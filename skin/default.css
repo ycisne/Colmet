@@ -44,7 +44,7 @@ a:hover {
 
 /* portfolio */
 .portfolio-item .portfolio-desc {
-	background: #35A49C;
+	background: rgba(53,164,156,0.5);
 }
 
 /* btn */

@@ -108,7 +108,7 @@
         }
 
         
-        if (isMobile == false && ($('#parallax1').length  ||isMobile == false &&  $('#parallax2').length ||isMobile == false &&  $('#testimonials').length))
+        if (isMobile == false && ($('#parallax1').length  ||isMobile == false &&  $('#parallax2').length ||isMobile == false &&  $('#parallax0').length))
         {
 
 
@@ -134,5 +134,8 @@
 	}
 	$(window).load(initNice);
 	$(window).resize(initNice);
-
+	$('#carousel').carousel({
+		interval: 10000,
+		pause: 'hover'
+	});
 })(jQuery);
