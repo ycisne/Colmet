@@ -135,7 +135,6 @@
 	$(window).load(initNice);
 	$(window).resize(initNice);
 	$('#carousel').carousel({
-		interval: 10000,
 		pause: 'hover'
 	});
 })(jQuery);

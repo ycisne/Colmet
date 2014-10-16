@@ -471,6 +471,7 @@ section.featured.inner {
 	transition: all .3s ease;
  }
 .carousel-inner .item {
+	height: 760px;
 	padding: 80px 0;
 	-webkit-transition: all .3s ease;
 	-moz-transition: all .3s ease;
@@ -496,6 +497,12 @@ section.featured.inner {
 	padding: 40px;
 	font-size: 16px;
  }
+ .item-container-cartel {
+ 	background: none;
+ 	margin: 0 auto;
+ 	text-align: center;
+ 	width: 740px;
+ }
  .item-container p {
  	margin: 10px 0;
  }
@@ -505,6 +512,9 @@ section.featured.inner {
  .item-container .btn {
  	margin-top: 20px;
  	/*font-size: 30px;*/
+ }
+ .item-text-hide {
+ 	display: none;
  }
 
 
@@ -1123,7 +1133,9 @@ a.socialIcon:hover, .socialHoverClass {
 	border-bottom: 4px solid;
 }
 
-
+.min {
+	font-size: 10px;
+}
 
 /* ========================================
 Media queries
