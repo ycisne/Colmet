@@ -1,0 +1,33 @@
+					<div class="item active">
+						<img src="img/assets/cartel.jpg" alt="Cartel" class="item-img">
+						<div class="item-container item-container-cartel">
+							<img src="img/assets/ofertaDiplomado.jpg" alt="Oferta Especial 2014">
+							<div class="item-text-hide">
+								<h2>OFERTA ESPECIAL</h2>
+								<p >Inscríbete al <strong>Diplomado de Estimulación Temprana y Neurodesarrollo</strong> del <span class="item-sale">16 de Octubre</span> al <span class="item-sale">7 de Noviembre de 2014</span> y recibe un descuento especial:</p>
+								<ul>
+									<li>Inscripción: de <span class="item-beforesale">$1,300</span> a sólo <span class="item-aftersale">$1,000</span></li>
+									<li>Mensualidad: de <span class="item-beforesale">$1,200</span> a sólo <span class="item-aftersale">$900</span></li>
+								</ul>
+								<span class="min">Promoción válida del 16 de Octubre al 7 de Noviembre de 2014, aplicable al precio de inscripción y de las mensualidades durante todo el Diplomado.</span>
+							</div>
+						</div>
+					</div>
+					<div class="item active">
+						<img src="img/assets/estimulacion.jpg" alt="Estimulación Temprana" class="item-img">
+						<div class="item-container"> 
+							<h2 class="slogan">Diplomado de Estimulación Temprana y Neurodesarrollo</h2>
+							<p class="align-center"><strong>Ya iniciamos el Diplomado de Estimulación Temprana y Neurodesarollo, pero todavía tenemos lugares:</strong></p>
+							<ul>
+								<!-- <li>Clases: <strong>Sábado 8 de Noviembre de 2014</strong></li> -->
+								<li>Costo de Inscripción: <strong>$1,300</strong></li>
+								<li>Costo del Diplomado: <strong>12 mensualidades de $1,200</strong></li>
+								<li>Duración del Diplomado: <strong>12 meses</strong></li>
+								<li>Horario: <strong>Sábados de 10:30am a 3:30pm</strong></li>
+							</ul>
+							<p>Nuestro programa está estructurado para tener clases 70% de prácticas y 30% teóricas.</p>
+							<p>Se te otorgará un Diploma y una Certificación con validez ante la Secretaría de Trabajo.</p>
+							<p>Si cuentas con título y cédula profesional de carrera afín, al término del Diplomado estarás listo para realizar diagnósticos y desarrollar el programa de intervención de manera inmediata.</p>
+							<!-- <p class="align-center"><a href="#" class="btn btn-danger btn-block btn-lg">Ver más</a></p> -->
+						</div>
+					</div>

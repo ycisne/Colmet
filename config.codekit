@@ -94,6 +94,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/assets\/cartel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28163,
+		"inputAbbreviatedPath": "\/img\/assets\/cartel.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/cartel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/assets\/estimulacion.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -101,6 +112,17 @@
 		"initialSize": 91641,
 		"inputAbbreviatedPath": "\/img\/assets\/estimulacion.jpg",
 		"outputAbbreviatedPath": "\/img\/assets\/estimulacion.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/estimulacion2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25315,
+		"inputAbbreviatedPath": "\/img\/assets\/estimulacion2.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/estimulacion2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -127,6 +149,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/assets\/kid1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28123,
+		"inputAbbreviatedPath": "\/img\/assets\/kid1.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/kid1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/lenguaje.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14429,
+		"inputAbbreviatedPath": "\/img\/assets\/lenguaje.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/lenguaje.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/logoColmet-blanco.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12990,
+		"inputAbbreviatedPath": "\/img\/assets\/logoColmet-blanco.png",
+		"outputAbbreviatedPath": "\/img\/assets\/logoColmet-blanco.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/assets\/logoColmet.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -138,6 +193,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/assets\/nina.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12090,
+		"inputAbbreviatedPath": "\/img\/assets\/nina.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/nina.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/ninas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13478,
+		"inputAbbreviatedPath": "\/img\/assets\/ninas.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/ninas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/ninoColmet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11602,
+		"inputAbbreviatedPath": "\/img\/assets\/ninoColmet.png",
+		"outputAbbreviatedPath": "\/img\/assets\/ninoColmet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/assets\/ninos1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -145,6 +233,39 @@
 		"initialSize": 149272,
 		"inputAbbreviatedPath": "\/img\/assets\/ninos1.jpg",
 		"outputAbbreviatedPath": "\/img\/assets\/ninos1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/ofertaDiplomado.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65926,
+		"inputAbbreviatedPath": "\/img\/assets\/ofertaDiplomado.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/ofertaDiplomado.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/prueba.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100522,
+		"inputAbbreviatedPath": "\/img\/assets\/prueba.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/prueba.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/assets\/reneGuzman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11790,
+		"inputAbbreviatedPath": "\/img\/assets\/reneGuzman.jpg",
+		"outputAbbreviatedPath": "\/img\/assets\/reneGuzman.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
