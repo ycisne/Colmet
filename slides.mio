@@ -1,4 +1,22 @@
 					<div class="item active">
+						<img src="img/assets/prueba.jpg" alt="Prueba Psicométrica" class="item-img">
+						<div class="item-container"> 
+							<h2 class="slogan">Diplomado en Pruebas Psicométricas, Proyectivas y de Orientación Vocacional</h2>
+							<p class="align-center">Si quieres conocer más sobre las pruebas psicométricas, proyectivas y de orientación vocacional, te invitamos a participar en nuestro Diplomado que esta por iniciar:</p>
+							<ul>
+								<li>Inicio: <strong>Sábado 7 de Febrero de 2015</strong></li>
+								<li>Duración del Diplomado: <strong>12 meses</strong></li>
+								<li>Inscripción: <strong>$1,300</strong></li>
+								<li>Mensualidad: <strong>$1,000</strong></li>
+								<li>Horario: <strong>Sábados de 8:00am a 10:00am</strong></li>
+							</ul>
+							<p>Al final del Diplomado se te otorgará un Diploma y una Certificación con validez ante la Secretaría de Trabajo.</p>
+							<p>Está dirigido a profesionales o personas en formación profesional de las  áreas:</p>
+							<p><strong>Pedagogía, Enfermería, Trabajo Social, Abogacía, Medicina, Psicología.</strong></p>
+							<center class="align-center"><a href="files/DiplomadoPSPOV-2015.pdf" target="_blank" class="btn btn-danger btn-block btn-lg">Descargar Folleto</a></center>
+						</div>
+					</div>
+					<div class="item active">
 						<img src="img/assets/cartel.jpg" alt="Cartel" class="item-img">
 						<div class="item-container item-container-cartel">
 							<img src="img/assets/ofertaDiplomado.jpg" alt="Oferta Especial 2014">
